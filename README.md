@@ -1,7 +1,7 @@
 # Hangman
 <b>Language</b>: C<br>
 <b>Compilation</b>: via Makefile<br>
-<b>Options</b>: none<br>
+<b>Options</b>: [-h, --names]<br>
 <br>
 Welcome to Hangman!<br>
 <br>
