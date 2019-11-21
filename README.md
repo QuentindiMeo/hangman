@@ -6,7 +6,8 @@
 Welcome to Hangman!<br>
 <br>
 This is a remake of the famous hangman game in C. You have to set up a file with given words to play with.<br>
-Try "./hangman --help" to know more about the available options.<br>
+A sample dictionary can be found in the <i>assets</i> directory.<br>
+Try "./hangman --help" to know more about this set of words.<br>
 <br>
 Have fun!<br>
 <br>
