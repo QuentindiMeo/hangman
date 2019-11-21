@@ -1,6 +1,6 @@
 ##
 ## PERSONAL PROJECT, 2019
-## gomoku
+## hangman
 ## File description:
 ## Makefile
 ##
