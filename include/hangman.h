@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2018
-** personal
+** hangman
 ** File description:
 ** hangman headers
 */
